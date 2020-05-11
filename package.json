@@ -1,0 +1,24 @@
+{
+  "name": "hotel-app",
+  "version": "1.0.0",
+  "description": "Hotel Template App",
+  "main": "index.js",
+  "dependencies": {
+    "add": "^2.0.6",
+    "npm": "^6.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gadgetboy27/hotel-template-app.git"
+  },
+  "author": "Henry Peti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gadgetboy27/hotel-template-app/issues"
+  },
+  "homepage": "https://github.com/gadgetboy27/hotel-template-app#readme"
+}
